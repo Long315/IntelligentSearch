@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: com.codeborne.selenide
+Implementation-Version: 4.11.0
+Implementation-Vendor: Codeborne
+
