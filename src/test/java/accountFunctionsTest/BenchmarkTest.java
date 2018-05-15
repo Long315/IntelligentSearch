@@ -15,8 +15,6 @@ public class BenchmarkTest {
     @Test
     public void TestFunctionOne(){
 
-    	System.out.println("Test Suscess");
-    	
     	
     }
 
