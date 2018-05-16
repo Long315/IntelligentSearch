@@ -8,4 +8,4 @@
 * Java 1.8+
 * Maven
 
-https://travis-ci.org/Long315/IntelligentSearch.svg?branch=master
+[![Build Status](https://travis-ci.org/Long315/IntelligentSearch.svg?branch=master)](https://travis-ci.org/Long315/IntelligentSearch)
